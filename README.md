@@ -1,0 +1,2 @@
+# CT-Muscle-Segmentation-using-Bayesian-U-Net-and-nnU-Net
+This repository documents the workflow and visualization process from my research on **automated musculoskeletal segmentation** in torso CT images at the **Nara Institute of Science and Technology (NAIST), Japan**.  > ⚠️ Due to institutional research policies and ongoing publication, model code and real experimental results are not included.  
